@@ -1,0 +1,3 @@
+Inicio
+mostrar textos
+Fin
